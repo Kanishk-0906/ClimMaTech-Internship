@@ -44,11 +44,11 @@ External CAD representation showing the overall enclosure geometry and housing c
 
 | **Detail** | **Information** |
 |---|---|
-| Organisation | CliMaTech |
+| Organisation | ClimMaTech |
 | Role | Product Design Intern |
 | Duration | September–October 2026 |
 | Project | DRISHTI – Radar Enclosure Redesign |
 | CAD Software | Siemens NX |
 <br>
 
-*This repository presents selected CAD visualisations and design work completed as part of the Product Design Internship at CliMaTech*
+*This repository presents selected CAD visualisations and design work completed as part of the Product Design Internship at ClimMaTech*
