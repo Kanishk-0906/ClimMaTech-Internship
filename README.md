@@ -2,7 +2,7 @@
 
 ## Product Design Internship | ClimMaTech | Sep - Oct 2026
 
-Mechanical enclosure redesign for DRISHTI, a 24.125 GHz FMCW radar-based water monitoring system. The project involved developing the enclosure architecture and integrating internal components using Siemens NX, with emphasis on functional design, manufacturability, mounting provisions, and environmental protection.
+Mechanical enclosure redesign for DRISHTI, a 24.125 GHz FMCW radar-based water monitoring system. The project focused on developing the enclosure architecture, integrating internal components, and addressing mechanical design considerations such as manufacturability, mounting provisions, and environmental protection using Siemens NX.
 
 ## Project Overview
 
@@ -12,11 +12,11 @@ The objective of this project was to redesign its mechanical enclosure to accomm
 
 ## Design Contributions
 
-- Enclosure Architecture: Developed the mechanical enclosure layout and overall housing configuration.
-- Component Integration: Worked on the internal arrangement and integration of electronic components within the enclosure.
-- Mounting Provisions: Incorporated mounting interfaces and fastening provisions into the mechanical design.
-- Design for Manufacturing: Considered manufacturability, assembly requirements, and practical design constraints.
-- Environmental Protection: Incorporated enclosure features intended to protect internal components from external environmental conditions.
+- **Enclosure Architecture:** Developed the mechanical layout and overall housing configuration.
+- **Component Integration:** Designed the internal arrangement to accommodate electronic components and their mounting interfaces.
+- **Mounting Provisions:** Incorporated fastening provisions, mounting features, and structural elements.
+- **Design for Manufacturing:** Considered assembly requirements, manufacturing constraints, and practical design considerations.
+- **Environmental Protection:** Developed enclosure features intended to safeguard internal electronics from external conditions.
 
 ## CAD Visualisation
 
